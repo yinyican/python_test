@@ -93,3 +93,4 @@ def login(func):
 def profile(par):
     return "你的主页信息"
 print(profile("asdqwe"))
+

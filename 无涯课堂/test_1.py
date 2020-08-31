@@ -95,3 +95,4 @@
 # 动态参数的个数不确定  数据类型不确定    *元组 **字典
 # def f1(*args,**kwargs):
 #     print(args,kwargs)
+
