@@ -53,4 +53,7 @@ import sys
 
 # 文件的序列化和反序列化
 # 对文件序列化--->就是把服务端的响应数据写到文件中
+import requests
+import json
+r =requests.get(url = 'http://www.weather.com.cn/data/sk/101190408.html')
 json.dump()
